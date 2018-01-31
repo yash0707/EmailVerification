@@ -41,4 +41,11 @@
         android:text="Initial"
         android:textSize="50dp"
         android:id="@+id/tvResult"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verified"
+        android:textSize="50dp"
+        android:id="@+id/tvVerified"/>
 </LinearLayout>
